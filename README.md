@@ -1,0 +1,1 @@
+This Repository is created for my projects that I have made based on ideas that I had to test and learn from. These files are the projects that I have made and completed with help from AI to learn and improve on the code I created.
